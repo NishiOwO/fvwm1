@@ -54,8 +54,8 @@
 #include "screen.h"
 #include "module.h"
 
-XGCValues Globalgcv;
-unsigned long Globalgcm;
+extern XGCValues Globalgcv;
+extern unsigned long Globalgcm;
 
 
 /**************************************************************************
