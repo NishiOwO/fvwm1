@@ -1,4 +1,4 @@
-#define FVWMDIR     "/usr/lib/X11/fvwm"
+#define FVWMDIR     "/usr/fvwm1/lib"
 /* #define FVWMDIR        "/local/homes/dsp/nation/modules"*/
 #define FVWM_ICONDIR   "/usr/include/X11/bitmaps:/usr/include/X11/pixmaps"
 #define FVWMRC         "/usr/lib/X11/fvwm/system.fvwmrc"
@@ -14,7 +14,7 @@
  * If you want to install it in a different directory, uncomment and
  * edit the first line */
 /* #define FVWM_BIN_DIR BINDIR=/local/homes/dsp/nation/bin/4.1.3*/
-#define FVWM_BIN_DIR BINDIR=/usr/bin/X11
+#define FVWM_BIN_DIR BINDIR=/usr/fvwm1/bin
 /*#define FVWM_BIN_DIR*/
 
 /* Compiler over-ride for Imakefiles */
